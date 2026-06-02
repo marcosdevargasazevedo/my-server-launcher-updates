@@ -1,1 +1,1 @@
-HELLO FROM MY FIRST INTERNET UPDATE
+This file came from the hosted update folder.
