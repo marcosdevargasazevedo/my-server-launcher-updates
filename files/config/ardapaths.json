@@ -1,0 +1,80 @@
+{
+  "paths": [
+    {
+      "id": 0,
+      "name": "Frodo\u0027s Path",
+      "primary_color": {
+        "red": 255,
+        "green": 215,
+        "blue": 0
+      },
+      "secondary_color": {
+        "red": 230,
+        "green": 194,
+        "blue": 0
+      },
+      "tertiary_color": {
+        "red": 255,
+        "green": 227,
+        "blue": 77
+      }
+    },
+    {
+      "id": 1,
+      "name": "Aragorn\u0027s Path",
+      "primary_color": {
+        "red": 0,
+        "green": 158,
+        "blue": 96
+      },
+      "secondary_color": {
+        "red": 0,
+        "green": 126,
+        "blue": 77
+      },
+      "tertiary_color": {
+        "red": 77,
+        "green": 187,
+        "blue": 144
+      }
+    },
+    {
+      "id": 2,
+      "name": "Bilbo\u0027s Path",
+      "primary_color": {
+        "red": 125,
+        "green": 249,
+        "blue": 255
+      },
+      "secondary_color": {
+        "red": 88,
+        "green": 174,
+        "blue": 179
+      },
+      "tertiary_color": {
+        "red": 164,
+        "green": 251,
+        "blue": 255
+      }
+    },
+    {
+      "id": 3,
+      "name": "Merry\u0027s Path",
+      "primary_color": {
+        "red": 227,
+        "green": 66,
+        "blue": 52
+      },
+      "secondary_color": {
+        "red": 159,
+        "green": 46,
+        "blue": 36
+      },
+      "tertiary_color": {
+        "red": 235,
+        "green": 123,
+        "blue": 113
+      }
+    }
+  ]
+}

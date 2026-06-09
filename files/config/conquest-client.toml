@@ -1,0 +1,9 @@
+
+[secrets]
+	state_picker_gui = false
+
+[tutorials]
+	ignore_intro = true
+	ignore_dependencies = true
+	using_modpack = true
+

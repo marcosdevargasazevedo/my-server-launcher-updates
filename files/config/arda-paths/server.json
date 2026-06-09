@@ -1,0 +1,180 @@
+{
+  "paths": [
+    {
+      "id": "frodo",
+      "name": "Frodo\u0027s Path",
+      "primaryColor": {
+        "red": 255,
+        "green": 215,
+        "blue": 0
+      },
+      "secondaryColor": {
+        "red": 230,
+        "green": 194,
+        "blue": 0
+      },
+      "tertiaryColor": {
+        "red": 255,
+        "green": 227,
+        "blue": 77
+      },
+      "chapters": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "date": "0",
+          "index": 0
+        },
+        "threeiscompany1": {
+          "id": "threeiscompany1",
+          "name": "Three is Company - 1",
+          "date": "04/09/3018",
+          "index": 1
+        },
+        "threeiscompany2": {
+          "id": "threeiscompany2",
+          "name": "Three is Company - 2",
+          "date": "05/09/3018",
+          "index": 2
+        },
+        "knifeinthedark1": {
+          "id": "knifeinthedark1",
+          "name": "Knife in the Dark - 1",
+          "date": "07/09/3018",
+          "index": 3
+        }
+      }
+    },
+    {
+      "id": "aragorn",
+      "name": "Aragorn\u0027s Path",
+      "primaryColor": {
+        "red": 0,
+        "green": 158,
+        "blue": 96
+      },
+      "secondaryColor": {
+        "red": 0,
+        "green": 126,
+        "blue": 77
+      },
+      "tertiaryColor": {
+        "red": 77,
+        "green": 187,
+        "blue": 144
+      },
+      "chapters": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "date": "0",
+          "index": 0
+        },
+        "aragorn1": {
+          "id": "aragorn1",
+          "name": "Aragorn 1",
+          "date": "",
+          "index": 1
+        },
+        "aragorn2": {
+          "id": "aragorn2",
+          "name": "Aragorn 2",
+          "date": "",
+          "index": 2
+        },
+        "aragorn3": {
+          "id": "aragorn3",
+          "name": "Aragorn 3",
+          "date": "",
+          "index": 3
+        }
+      }
+    },
+    {
+      "id": "bilbo",
+      "name": "Bilbo\u0027s Path",
+      "primaryColor": {
+        "red": 125,
+        "green": 249,
+        "blue": 255
+      },
+      "secondaryColor": {
+        "red": 88,
+        "green": 174,
+        "blue": 179
+      },
+      "tertiaryColor": {
+        "red": 164,
+        "green": 251,
+        "blue": 255
+      },
+      "chapters": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "date": "0",
+          "index": 0
+        }
+      }
+    },
+    {
+      "id": "merry",
+      "name": "Merry\u0027s Path",
+      "primaryColor": {
+        "red": 227,
+        "green": 66,
+        "blue": 52
+      },
+      "secondaryColor": {
+        "red": 159,
+        "green": 46,
+        "blue": 36
+      },
+      "tertiaryColor": {
+        "red": 235,
+        "green": 123,
+        "blue": 113
+      },
+      "chapters": {
+        "default": {
+          "id": "default",
+          "name": "Default",
+          "date": "0",
+          "index": 0
+        }
+      }
+    }
+  ],
+  "chapter_starts": {
+    "frodo:knifeinthedark1": {
+      "x": 15388,
+      "y": 135,
+      "z": 12187
+    },
+    "aragorn:aragorn1": {
+      "x": 15420,
+      "y": 135,
+      "z": 12226
+    },
+    "aragorn:aragorn2": {
+      "x": 15403,
+      "y": 133,
+      "z": 12210
+    },
+    "aragorn:aragorn3": {
+      "x": 15388,
+      "y": 135,
+      "z": 12187
+    },
+    "frodo:threeiscompany1": {
+      "x": -1453,
+      "y": 45,
+      "z": -808
+    },
+    "frodo:threeiscompany2": {
+      "x": -1532,
+      "y": 38,
+      "z": -819
+    }
+  }
+}
