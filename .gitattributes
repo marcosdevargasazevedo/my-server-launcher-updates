@@ -1,0 +1,2 @@
+# The launcher verifies SHA-256 checksums. Publish generated artifacts byte-for-byte.
+* -text
