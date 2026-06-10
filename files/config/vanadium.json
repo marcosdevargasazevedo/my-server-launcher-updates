@@ -1,8 +1,0 @@
-{
-  "shouldClearSky": false,
-  "shouldClearVoid": false,
-  "shouldBlendSkyLight": true,
-  "shouldFlickerBlockLight": true,
-  "relativeBlockLightIntensity": -13.0,
-  "blendingRadius": 14
-}
