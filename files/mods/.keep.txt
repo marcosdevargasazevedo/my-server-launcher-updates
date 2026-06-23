@@ -1,1 +1,0 @@
-Generated and owner-managed player files are stored below this folder.
